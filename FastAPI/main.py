@@ -30,4 +30,4 @@ async def root():
 
 @app.get("/url")
 async def url(): #siempre cada función con nombre distinto
-    return {"url":"http://mouredev.com/python"}
+    return {"url":"http://maurigg.com/python"}
